@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <strong>⚡ "Embedded systems engineer by day, firmware debugger by night." ⚡</strong><br/><br/>
-  💬 <em>Open to opportunities in Embedded Systems, Electrical & EV & IOT domains</em><br/>
+  💬 <em>Open to opportunities in| Using AI | Embedded Systems| Electrical | EV | EV Technologies | IOT domains </em><br/>
   📩 Reach out via <a href="https://www.linkedin.com/in/bangale-vijay-kumar-rao-a163b8244/">LinkedIn</a> — let's build something amazing!
 </p>
 <p align="center">
